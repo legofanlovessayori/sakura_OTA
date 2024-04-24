@@ -1,9 +1,0 @@
-Highlights & Device Specific Changes:
-Build type: Monthly
-Device: Xiaomi Redmi 5 (rosy)
-Device maintainer: Ebin (Ebin_A)
-Android Version: 11
-
-==== 2021-10-19 ====
-- Initial Official Release
-- October security patch
