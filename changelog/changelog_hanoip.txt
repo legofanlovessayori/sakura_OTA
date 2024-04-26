@@ -1,0 +1,6 @@
+Apr-26-2024
+
+- Fix media and ringtone sound issues
+- Revert adding cpu freq table in kernel for now
+- Remove liboemcrypto
+- Utilize lz4 for zram always

@@ -20,5 +20,16 @@
       "xda_thread": "https://forum.xda-developers.com/t/rom-11-project-sakura-5-2-official-sweet-monthly-updates-gapps-core.4405825/",
       "active": true,
       "donation_link":"paypal.me/luffymst"
-   }
+   },
+   {
+    "brand": "Motorola",
+     "name": "Motorola G60/G40 Fusion",
+     "codename": "hanoip",
+     "maintainer_name": "Anoosragh",
+     "maintainer_xda": "null",
+     "maintainer_country": "IND",
+     "xda_thread": "",
+     "active": true,
+     "donation_link":"paypal.me/anoosragh69"
+  }
   ]
