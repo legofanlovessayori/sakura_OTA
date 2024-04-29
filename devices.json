@@ -64,5 +64,16 @@
     "xda_thread": "",
     "active": true,
     "donation_link":"paypal.me/amperfume"
+ },
+ {
+   "brand": "Poco",
+    "name": "Poco X3 Pro",
+    "codename": "vayu",
+    "maintainer_name": "ArmSM",
+    "maintainer_xda": "null",
+    "maintainer_country": "ALB",
+    "xda_thread": "",
+    "active": true,
+    "donation_link":"paypal.me/ArmSMA"
  }
   ]

@@ -1,0 +1,3 @@
+-Initial Build
+-Safetynet passes default
+-Miui Leica cam default
