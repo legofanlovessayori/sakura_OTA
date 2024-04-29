@@ -1,32 +1,40 @@
 [
   {
     "maintainer_name": "ArmSM",
-    "devices_mantaining": ["Poco X3 Pro Maintainer"],
-    "country_flag": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/281/flag-albania_1f1e6-1f1f1.png",
+    "devices_mantaining": [
+      "Poco X3 Pro Maintainer"
+    ],
+    "country_flag": "https://em-content.zobj.net/source/twitter/376/flag-albania_1f1e6-1f1f1.png",
     "telegram_link": "https://t.me/ArmSM",
     "github_link": "https://github.com/ArmSM",
     "maintainer_photo": "https://avatars.githubusercontent.com/u/60157798?v=4"
   },
   {
     "maintainer_name": "Anoosragh",
-    "devices_mantaining": ["Moto G60/G40 Fusion and Poco M6 Pro/Redmi 12 5G Maintainer"],
-    "country_flag": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/281/flag-india_1f1ee-1f1f3.png",
+    "devices_mantaining": [
+      "Moto G60/G40 Fusion and Poco M6 Pro/Redmi 12 5G Maintainer"
+    ],
+    "country_flag": "https://em-content.zobj.net/source/twitter/376/flag-india_1f1ee-1f1f3.png",
     "telegram_link": "https://t.me/anoosragh69",
     "github_link": "https://github.com/anoosragh69",
     "maintainer_photo": "https://avatars.githubusercontent.com/u/83896147?v=4"
   },
   {
     "maintainer_name": "RDX463",
-    "devices_mantaining": ["Poco X5 Pro 5G Maintainer"],
-    "country_flag": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/281/flag-india_1f1ee-1f1f3.png",
+    "devices_mantaining": [
+      "Poco X5 Pro 5G Maintainer"
+    ],
+    "country_flag": "https://em-content.zobj.net/source/twitter/376/flag-india_1f1ee-1f1f3.png",
     "telegram_link": "https://t.me/rdx463",
     "github_link": "https://github.com/RDX463",
     "maintainer_photo": "https://avatars.githubusercontent.com/u/129583236?v=4"
   },
   {
     "maintainer_name": "MNoxx74",
-    "devices_mantaining": ["Realme GT 5G"],
-    "country_flag": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/281/flag-india_1f1ee-1f1f3.png",
+    "devices_mantaining": [
+      "Realme GT 5G"
+    ],
+    "country_flag": "https://em-content.zobj.net/source/twitter/376/flag-thailand_1f1f9-1f1ed.png",
     "telegram_link": "https://t.me/MNoxx74",
     "github_link": "https://github.com/MNoxx74",
     "maintainer_photo": "https://avatars.githubusercontent.com/u/81765576?v=4"
