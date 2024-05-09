@@ -1,3 +1,6 @@
+May-09-2024
+-hotfix for web
+
 April-30-2024
 -Please use A13 firmware for now
 -Initial OFFICIAL BUILD
