@@ -1,3 +1,6 @@
--Initial Build
--Safetynet passes default
--Miui Leica cam default
+-QuickSettings crash fixed
+-OneTap Qs tile Bluetooth activation enabled
+-Gamespace Added
+-May Security patch
+
+
