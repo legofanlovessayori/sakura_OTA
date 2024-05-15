@@ -1,3 +1,12 @@
+May-15-2024
+
+- Update GcamGo
+- Update blobs from V816.0.5.0.UMWEUXM
+- Add support for NFC devices
+- Switch to source built USB hal
+- Fix Goodix fingerprint
+- Boost big cluster on input
+
 Apr-26-2024
 
 - Initial stable release
