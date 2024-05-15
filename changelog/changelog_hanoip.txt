@@ -1,3 +1,11 @@
+May-15-2024
+
+- A lot of kernel side changes
+- Revert switching to vulkan hwui renderer
+- Fix touch in rom recovery
+- Update GcamGo
+- Misc bug fixes and stability improvements
+
 Apr-26-2024
 
 - Fix media and ringtone sound issues
