@@ -1,6 +1,14 @@
+May-17-2024
+
+-May security patch
+-Updated the Oneplus Dolby Atmos
+-Pure Black theme added
+-Add support for NFC devices
+
 April-26-2024
 
 -Initial Stable release
 -Added Lecia Camera and Shiped with OP Dolby Atmos
 -Included KSU
 -PlayStore Certified
+
