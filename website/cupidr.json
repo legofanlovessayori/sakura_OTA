@@ -1,13 +1,13 @@
 {
 "response": [
 {
- "datetime": "1714210893 ",
- "filename": "ProjectSakura-9.0-20240427-GAPPS-cupidr-OFFICIAL.zip",
- "id": "35a146cb648768dfccd5975ffdf984fa",
+ "datetime": "1716134289",
+ "filename": "ProjectSakura-9.1-20240519-2301-GAPPS-cupidr-OFFICIAL.zip",
+ "id": "5e54b61d0a3d70a699b3e7aa658ade45",
  "romtype": "nightly",
- "size": 2079827359,
- "url": "https://master.dl.sourceforge.net/project/projectsakura/cupidr/ProjectSakura-9.0-20240427-GAPPS-cupidr-OFFICIAL.zip",
- "version": "9.0"
+ "size": 2058161389,
+ "url": "https://master.dl.sourceforge.net/project/projectsakura/cupidr/ProjectSakura-9.1-20240519-2301-GAPPS-cupidr-OFFICIAL.zip",
+ "version": "9.1"
 }
 ]
 }
