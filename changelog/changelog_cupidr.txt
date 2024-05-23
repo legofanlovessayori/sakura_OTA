@@ -1,12 +1,9 @@
-May-19-2024
+May-22-2024
 
 -Setup SecureNFC
 -Kernel Merge tag 'ASB-2024-05-05_11-5.4'
 -Gamespace Added
--Implement cutout force full screen
--Hide ADB and developer setting enable status
 -May Security patch
--Fix PlayIntegrity
 
 April-27-2024
 
