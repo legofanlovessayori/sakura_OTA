@@ -113,39 +113,29 @@ def get_info(id):
             name = devices['name']
             brand = devices['brand']
 
-    if "VANILLA" in required['filename']:
-        variant = "Vanilla"
-    elif "GAPPS-Core" in required['filename']:
-        variant = "GApps Core"
-    elif "GAPPS-Basic" in required['filename']:
-        variant = "GApps Basic"
-    elif "microg" in required['filename'].lower():
-        variant = "MicroG"
-    else:
-        variant = "GApps"
-
     if required['updater']:
-        notes = "✅ OTA has been pushed; Clean flash not mandatory"
+        ota = "✅ OTA PUSHED"
+        flash = "⚠️ CLEAN FLASH NOT REQUIRED"
     else:
-        notes = "❎ OTA not pushed; Clean flash mandatory"
+        ota = "⚠️ OTA NOT PUSHED"
+        flash = "✅ CLEAN FLASH MANDATORY"
 
     print("Device is : " + device)
     print("Size is : " + str(required['size']))
     print("Maintained by : " + maintainer)
     print("File name : " + required['filename'])
     print("Version : " + required['version'])
-    print("Variant : " + variant)
-    print("Notes : " + notes)
+    print("Notes : " + ota + "\n" + flash)
 
     return {
         "device": device,
         "size": str(required['size']),
         "maintainer": maintainer,
-        "variant": variant,
         "version" : required['version'],
         'name' : name,
         "brand" : brand,
-        "notes" : notes,
+        "ota" : ota,
+        "flash" : flash,
         "time" : required['datetime'],
         "filename" : required['filename'],
         "id" : required['id'],
@@ -166,13 +156,12 @@ def cook_content(information):
     # links need to be in this format <a href="http://www.example.com/">inline URL</a>
     message = message + \
         "<b>New Update for " + information['name'] +  " (" + str(information['device'] ) + ") is here!</b>\n" + \
-        "👤 " + bold("by ", str(information["maintainer"])) + "\n\n" + \
-        "ℹ️ " + bold("Version : ", str(information['version'])) + "\n" +\
-        "📆 " + bold("Date: ", str(datetime.date.today()).replace("-", "/")) + "\n" + \
-        "❕ " + bold("Variant: ", str(information["variant"])) + "\n" + \
-        "⬇️ " + bold("<a href=\"https://projectsakura.xyz/download/#/\">Download</a>", "") + "\n" + \
-        "📰 " + bold("<a href=\"https://projectsakura.xyz/blog/#/\">Blog</a>", "") + "\n\n" + \
-        bold(information['notes'], "") + "\n\n" + \
+        "👤 " + "by " + str(information["maintainer"]) + "\n\n" + \
+        "ℹ️ " + "Version : " + str(information['version']) + "\n" +\
+        "📆 " + "Date: " + str(datetime.date.today()).replace("-", "/") + "\n" + \
+        "⬇️ " + "<a href=\"https://projectsakura.me/download/#/\">Download</a>" + "" + "\n\n" + \
+        bold(information['ota'], "") + "\n" + \
+        bold(information['flash'], "") + "\n\n" + \
         "#" + str(information['device']) + " | #projectsakura" + "\n" + \
         "@ProjectSakuraUpdates | @ProjectSakura"
     return message
@@ -210,7 +199,7 @@ for i in get_diff(new, old):
     info = get_info(i)
     # bot.send_sticker(CHAT_ID, STICKER_ID)
     #send_mes(cook_content(info))
-    send_photo(".github/assets/banner.png", cook_content(info))
+    send_photo(".github/assets/banner.jpg", cook_content(info))
     if info["updater"]:
         update_json(info)
         commit_message = "Update new IDs and push OTA"
