@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 #
 # Python code which helps keep track of monthly updates for official devices
-# Working directory : inside https://github.com/ProjectSakura/OTA (branch 11)
+# Working directory : inside https://github.com/ProjectSakura/OTA (branch 14)
 # Intended usage : python .github/scripts/list.py
 # Note !
 # Set env variables as following:
