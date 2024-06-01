@@ -7,6 +7,7 @@
  "romtype":"nightly",
  "size": 1781426996,
  "url": "https://master.dl.sourceforge.net/project/projectsakura/lemonadep/ProjectSakura-9.1-20240524-2124-GAPPS-lemonadep-OFFICIAL.zip",
+ "updater": true,
  "version": "9.1"
 }
 ]

@@ -7,6 +7,7 @@
  "romtype":"nightly",
  "size": 1554003779,
  "url": "https://master.dl.sourceforge.net/project/projectsakura/veux/ProjectSakura-9.0-20240426-GAPPS-veux-OFFICIAL.zip",
+ "updater": true,
  "version": "9.0"
 }
 ]

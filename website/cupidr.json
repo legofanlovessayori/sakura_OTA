@@ -7,6 +7,7 @@
  "romtype": "nightly",
  "size": 2058336932,
  "url": "https://master.dl.sourceforge.net/project/projectsakura/cupidr/ProjectSakura-9.1-20240522-2024-GAPPS-cupidr-OFFICIAL.zip",
+ "updater": true,
  "version": "9.1"
 }
 ]
