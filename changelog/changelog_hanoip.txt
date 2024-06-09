@@ -1,3 +1,11 @@
+June-10-2024
+
+- Address some sepolicy issues
+- Some perf improvements
+- Upstream kernel to 4.14.344
+- Misc stability improvements
+- Fix OTA
+
 May-15-2024
 
 - A lot of kernel side changes
