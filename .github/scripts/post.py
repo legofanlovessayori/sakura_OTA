@@ -180,7 +180,7 @@ def cook_content(information):
         bold(information['ota'], "") + "\n" + \
         bold(information['flash'], "") + "\n\n" + \
         "#" + str(information['device']) + " | #projectsakura" + "\n" + \
-        "@ProjectSakuraUpdates | @ProjectSakura"
+        "@ProjectSakuraNews | @ProjectSakuraChat"
     return message
 
 
