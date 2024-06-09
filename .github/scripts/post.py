@@ -149,6 +149,23 @@ def bold(text1, text2):
     message = "<b>" + text1 + "</b>" + text2
     return message
 
+def banner():
+    with open(".github/scripts/banner.txt", "r+") as f:
+        b = int(f.read())
+        if b == 0:
+            f.seek(0)
+            f.write('1')
+            return "1"
+        elif b == 1:
+            f.seek(0)
+            f.write('2')
+            return "2"
+        elif b == 2:
+            f.seek(0)
+            f.write('0')
+            return "3"
+        else:
+            print("ayo code died")
 
 # Prepare in the format needed
 def cook_content(information):
@@ -188,7 +205,7 @@ new = get_id()
 old = read_old()
 
 if len(get_diff(new, old)) == 0:
-    print("All Updated\nNothing to do\nExiting")
+    print("Al4 Updated\nNothing to do\nExiting")
     exit()
 
 print(get_diff(new, old))
@@ -197,9 +214,10 @@ commit_descriptions = "Data for following device(s) were changed :\n"
 for i in get_diff(new, old):
     print(i)
     info = get_info(i)
+    ban_n = banner()
     bot.send_sticker(CHAT_ID, STICKER_ID)
     #send_mes(cook_content(info))
-    send_photo(".github/assets/banner.jpg", cook_content(info))
+    send_photo(f".github/assets/banner_{ban_n}.jpg", cook_content(info))
     if info["updater"]:
         update_json(info)
         commit_message = "Update new IDs and push OTA"
