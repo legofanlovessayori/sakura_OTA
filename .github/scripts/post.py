@@ -132,7 +132,7 @@ def get_info(id):
         "size": str(required['size']),
         "maintainer": maintainer,
         "version" : required['version'],
-        'name' : name,
+        "name" : name,
         "brand" : brand,
         "ota" : ota,
         "flash" : flash,
@@ -140,6 +140,7 @@ def get_info(id):
         "filename" : required['filename'],
         "id" : required['id'],
         "romtype" : required['romtype'],
+        "support" : required['support'],
         "url" : required['url'],
         "updater" : required['updater']
     }
@@ -167,6 +168,12 @@ def banner():
         else:
             print("ayo code died")
 
+def support_chat(info):
+    if info:
+        return f"<a href=\"https://t.me/{info}/\">📲 Support Chat</a>" + "\n\n"
+    else:
+        return "\n"
+
 # Prepare in the format needed
 def cook_content(information):
     message = ""
@@ -176,7 +183,8 @@ def cook_content(information):
         "👤 " + "by " + str(information["maintainer"]) + "\n\n" + \
         "ℹ️ " + "Version : " + str(information['version']) + "\n" +\
         "📆 " + "Date: " + str(datetime.date.today()).replace("-", "/") + "\n" + \
-        "⬇️ " + "<a href=\"https://projectsakura.me/download/#/\">Download</a>" + "" + "\n\n" + \
+        "⬇️ " + "<a href=\"https://projectsakura.me/download/#/\">Download</a>" + "" + "\n" + \
+        f"{support_chat(information['support'])}" + \
         bold(information['ota'], "") + "\n" + \
         bold(information['flash'], "") + "\n\n" + \
         "#" + str(information['device']) + " | #projectsakura" + "\n" + \
