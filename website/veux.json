@@ -6,6 +6,7 @@
  "id": "2d94f3e492773c305e87838dad81d343",
  "romtype":"nightly",
  "size": 1554003779,
+ "support" : false,
  "url": "https://master.dl.sourceforge.net/project/projectsakura/veux/ProjectSakura-9.0-20240426-GAPPS-veux-OFFICIAL.zip",
  "updater": true,
  "version": "9.0"

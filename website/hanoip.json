@@ -6,6 +6,7 @@
  "id": "8791237fbfd5cb6d32ddfa8196ef3659",
  "romtype":"nightly",
  "size": 1314767045,
+ "support" : "ProjectSakuraMoto",
  "url": "https://master.dl.sourceforge.net/project/projectsakura/hanoip/ProjectSakura-9.2-20240610-0222-GAPPS-hanoip-OFFICIAL.zip",
  "updater": false,
  "version": "9.2"

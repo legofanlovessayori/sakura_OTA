@@ -6,6 +6,7 @@
  "id": "edad77b2ea501ba3e93251a0a5d3294a",
  "romtype":"nightly",
  "size": 1965147047,
+ "support" : "ProjectSakuraPoco",
  "url": "https://master.dl.sourceforge.net/project/projectsakura/vayu/ProjectSakura-9.2-20240609-2001-GAPPS-vayu-OFFICIAL.zip",
  "updater": false,
  "version": "9.2"

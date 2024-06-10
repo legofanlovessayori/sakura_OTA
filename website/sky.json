@@ -6,6 +6,7 @@
  "id": "e33525aa6f06cd045e1412b6584bc1ad",
  "romtype":"nightly",
  "size": 1427525920,
+ "support" : "ProjectSakuraPoco",
  "url": "https://master.dl.sourceforge.net/project/projectsakura/sky/ProjectSakura-9.2-20240609-2232-GAPPS-sky-OFFICIAL.zip",
  "updater": false,
  "version": "9.2"
