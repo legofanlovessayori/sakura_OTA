@@ -6,7 +6,6 @@
  "id": "6b5ab5d066f69ee36f81c593c5c96367",
  "romtype":"nightly",
  "size": 1791333395,
- "support": ProjectSakuraPoco,
  "url": "https://master.dl.sourceforge.net/project/projectsakura//ProjectSakura-9.2-20240612-1106-GAPPS-redwood-OFFICIAL.zip",
  "updater": false,
  "version": "9.2"
