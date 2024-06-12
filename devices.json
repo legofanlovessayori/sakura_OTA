@@ -22,7 +22,7 @@
      "donation_link":"paypal.me/anoosragh69"
   },
   {
-   "brand": "Xiaomi",
+    "brand": "Xiaomi",
     "name": "Poco M6 Pro 5G/Redmi 12 5G",
     "codename": "sky",
     "maintainer_name": "Anoosragh",
@@ -33,7 +33,7 @@
     "donation_link":"paypal.me/anoosragh69"
  },
  {
-   "brand": "Poco",
+    "brand": "Poco",
     "name": "Poco X5 Pro 5G",
     "codename": "redwood",
     "maintainer_name": "RDX463",
@@ -44,7 +44,7 @@
     "donation_link":"paypal.me/RohanBalsaraf"
  },
  {
-   "brand": "Realme",
+    "brand": "Realme",
     "name": "Realme GT 5G",
     "codename": "cupidr",
     "maintainer_name": "MNoxx74",
@@ -55,7 +55,7 @@
     "donation_link":"https://paypal.me/amperfume"
  },
  {
-   "brand": "Poco",
+    "brand": "Poco",
     "name": "Poco X3 Pro",
     "codename": "vayu",
     "maintainer_name": "ArmSM",
@@ -64,6 +64,17 @@
     "xda_thread": "",
     "active": true,
     "donation_link":"https://paypal.me/ArmSMA"
+ },
+ {
+    "brand": "Poco",
+    "name": "Poco X3",
+    "codename": "surya",
+    "maintainer_name": "ReveRTX",
+    "maintainer_xda": "null",
+    "maintainer_country": "IND",
+    "xda_thread": "",
+    "active": true,
+    "donation_link":"https://paypal.me/joencecouture"
  },
  {
     "brand": "OnePlus",
