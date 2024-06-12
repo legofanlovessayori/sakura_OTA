@@ -1,3 +1,8 @@
+June-12-2024
+-Switched to LOS trees
+-KSU included and Dolby Atmos
+-Playstore Certified
+
 May-19-2024
 
 -Switched to Common tree
