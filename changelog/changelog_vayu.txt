@@ -1,5 +1,5 @@
-- New Device Trees 
-- Kernel Upstream to 4.14.345
-- Signed Build/ safteyNet default pass
+~ Build Specifications ~
 
-- Last stable build of qpr2 patch
+- Bring back display Saturated mode (fixes Yellow display color)
+- Add Peak Refresh rate Setting
+- Signed Build/SafetyNet pass/Disabled Fuse
