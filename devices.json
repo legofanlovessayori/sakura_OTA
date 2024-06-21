@@ -55,6 +55,17 @@
     "donation_link":"https://paypal.me/amperfume"
  },
  {
+   "brand": "Nothing",
+   "name": "Nothing Phone 2",
+   "codename": "pong",
+   "maintainer_name": "MNoxx74",
+   "maintainer_xda": "null",
+   "maintainer_country": "TH",
+   "xda_thread": "",
+   "active": true,
+   "donation_link":"https://paypal.me/amperfume"
+ },
+ {
     "brand": "Poco",
     "name": "Poco X3 Pro",
     "codename": "vayu",
