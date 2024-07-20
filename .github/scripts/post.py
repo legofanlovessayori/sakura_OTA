@@ -163,8 +163,12 @@ def banner():
             return "2"
         elif b == 2:
             f.seek(0)
-            f.write('0')
+            f.write('3')
             return "3"
+        elif b==3:
+            f.seek(0)
+            f.write('0')
+            return "4"
         else:
             print("ayo code died")
 
@@ -225,7 +229,7 @@ for i in get_diff(new, old):
     ban_n = banner()
     bot.send_sticker(CHAT_ID, STICKER_ID)
     #send_mes(cook_content(info))
-    send_photo(f".github/assets/banner_{ban_n}.jpg", cook_content(info))
+    send_photo(f".github/assets/banner_{ban_n}.png", cook_content(info))
     if info["updater"]:
         update_json(info)
         commit_message = "Update new IDs and push OTA"
