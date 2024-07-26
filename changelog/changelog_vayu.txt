@@ -1,5 +1,7 @@
 ~ Build Specifications ~
 
+- Trees updated 
+- Fixed Wallpaper style crashing
+- Fixed camera crashing 
+- Added ksu
 - Bring back display Saturated mode (fixes Yellow display color)
-- Add Peak Refresh rate Setting
-- Signed Build/SafetyNet pass/Disabled Fuse
