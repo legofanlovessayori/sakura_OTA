@@ -1,15 +1,15 @@
 {
 "response": [
 {
- "datetime": "1717954328",
- "filename": "ProjectSakura-9.2-20240610-0222-GAPPS-hanoip-OFFICIAL.zip",
- "id": "8791237fbfd5cb6d32ddfa8196ef3659",
- "romtype":"nightly",
- "size": 1314767045,
- "support" : "ProjectSakuraMoto",
- "url": "https://master.dl.sourceforge.net/project/projectsakura/hanoip/ProjectSakura-9.2-20240610-0222-GAPPS-hanoip-OFFICIAL.zip",
+ "datetime": "1721728504",
+ "filename": "ProjectSakura-9.3-20240723-1528-GAPPS-hanoip-OFFICIAL.zip",
+ "id": "38c5e26db48d8de239400c4c335a1623",
+ "romtype":"monthly",
+ "size": 1585046284,
+ "support": "ProjectSakuraMotorola",
+ "url": "https://master.dl.sourceforge.net/project/projectsakura/hanoip/ProjectSakura-9.3-20240723-1528-GAPPS-hanoip-OFFICIAL.zip",
  "updater": false,
- "version": "9.2"
+ "version": "9.3"
 }
 ]
 }
