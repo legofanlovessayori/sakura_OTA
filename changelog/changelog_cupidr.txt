@@ -1,3 +1,9 @@
+July-26-2024
+
+- Initial qpr3 stable release
+- Address qpr3 sepolicy changes
+- July Security patch
+
 May-22-2024
 
 -Setup SecureNFC
