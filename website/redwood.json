@@ -1,15 +1,15 @@
 {
 "response": [
 {
- "datetime": "1718168977",
- "filename": "ProjectSakura-9.2-20240612-1106-GAPPS-redwood-OFFICIAL.zip",
- "id": "6b5ab5d066f69ee36f81c593c5c96367",
- "romtype":"nightly",
- "size": 1791333395,
+ "datetime": "1721895813",
+ "filename": "ProjectSakura-9.3-20240725-1907-GAPPS-redwood-OFFICIAL.zip",
+ "id": "e4f25746c8af481041e7def7720aaec3",
+ "romtype":"monthly",
+ "size": 1836737363,
  "support": "ProjectSakuraPoco",
- "url": "https://master.dl.sourceforge.net/project/projectsakura//ProjectSakura-9.2-20240612-1106-GAPPS-redwood-OFFICIAL.zip",
+ "url": "https://master.dl.sourceforge.net/project/projectsakura/redwood/ProjectSakura-9.3-20240725-1907-GAPPS-redwood-OFFICIAL.zip",
  "updater": false,
- "version": "9.2"
+ "version": "9.3"
 }
 ]
 }

@@ -1,4 +1,13 @@
+July-28-2024
+
+-Initial QPR3 build
+-Added devices as web cam
+-Fixed some genfscon
+-KSU included
+-Device Certified
+
 June-12-2024
+
 -Switched to LOS trees
 -KSU included and Dolby Atmos
 -Playstore Certified
