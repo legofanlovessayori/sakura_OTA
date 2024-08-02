@@ -1,0 +1,12 @@
+August-02-2024
+- Initial Build
+- Includes Google Apps
+- Source side changes and improvements
+- Added Dolby instead of AudioFX
+- Fixed lags during screen recording
+- Lumos Kernel by default
+- Spatial audio has been added
+- Adjusted volume levels
+- Enabled Suspend to RAM
+- Import more surface flinger flags
+- Explicitly disabled Enable GL comp backpressure

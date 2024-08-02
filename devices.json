@@ -32,6 +32,17 @@
     "active": true,
     "donation_link":"paypal.me/anoosragh69"
  },
+  {
+    "brand": "Xiaomi",
+    "name": "Poco M2 Pro/Redmi Note 9S/Redmi Note 9 Pro/Redmi Note 9 Pro Max/Redmi Note 10 Lite",
+    "codename": "miatoll",
+    "maintainer_name": "Christo Paul",
+    "maintainer_xda": "null",
+    "maintainer_country": "IND",
+    "xda_thread": "",
+    "active": true,
+    "donation_link":"paypal.me/christopaul23"
+ },
  {
     "brand": "Poco",
     "name": "Poco X5 Pro 5G",
