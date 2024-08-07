@@ -1,0 +1,15 @@
+{
+"response": [
+{
+ "datetime": "1723033397",
+ "filename": "ProjectSakura-9.3-20240807-1324-GAPPS-raven-OFFICIAL.zip",
+ "id": "8a2786e1313657c265fd572389b395df",
+ "romtype":"monthly",
+ "size": 1656765239,
+ "support": false,
+ "url": "https://master.dl.sourceforge.net/project/projectsakura/raven/ProjectSakura-9.3-20240807-1324-GAPPS-raven-OFFICIAL.zip",
+ "updater": false,
+ "version": "9.3"
+}
+]
+}
