@@ -108,5 +108,16 @@
     "xda_thread": "",
     "active": true,
     "donation_link":"paypal.me/eduardoroms"
-  }
+  },
+  {
+   "brand": "Google",
+   "name": "Pixel 6 Pro",
+   "codename": "raven",
+   "maintainer_name": "Aquariusjr10",
+   "maintainer_xda": "null",
+   "maintainer_country": "IND",
+   "xda_thread": "https://xdaforums.com/t/project-sakura-14-official-raven.4680634/",
+   "active": true,
+   "donation_link":""
+}
    ]
