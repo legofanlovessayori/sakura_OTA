@@ -1,3 +1,8 @@
+Aug-30-2024
+- Initial QPR3 release
+- Fixed some stability issues
+- Misc changes
+
 June-09-2024
 - Fix incoming sms
 - Source side changes and improvements
